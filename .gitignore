@@ -1,2 +1,5 @@
 /Screenshots
 README.md
+.vscode/
+*.class
+bin/
